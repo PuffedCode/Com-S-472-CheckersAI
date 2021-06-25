@@ -1,6 +1,7 @@
 # Com-S-472-CheckersAI
 
 ==========Run in IDE==========
+
 Run the Checkers.java file like how you normally would run it with a main method
 
 A GUI would appear so just enjoy playing the game.
